@@ -37,3 +37,4 @@ Update-Database -Context AppIdentityDbContext
 
 ## Resources
 * https://gist.github.com/yigith/c6f999788b833dc3d22ac6332a053dd1
+* https://codepen.io/yigith/pen/PoOrWjX
