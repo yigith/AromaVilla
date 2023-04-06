@@ -31,7 +31,7 @@
                         </li>
                     </ul>
                     <partial name="_LoginPartial" />
-                    <vc:basket-navbar />
+                    @await Component.InvokeAsync("BasketNavbar")
                 </div>
             </div>
         </nav>
